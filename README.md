@@ -1,5 +1,3 @@
-Based on the code you’ve been working with, this project is a YouTube Transcript & Metadata Extractor.
-
 It’s a functional utility designed to bridge the gap between video content and text-based AI processing. Since you are putting this in a Git repository, you want a description that highlights its role as a "data feeder" for larger AI models.
 
 Project Title Idea: YT-Context-Engine or YouTube Transcript Pipeline
